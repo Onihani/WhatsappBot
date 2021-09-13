@@ -1,0 +1,80 @@
+[
+  {
+    "customer": {
+      "name": "Cephas",
+      "phone": "233549401394"
+    },
+    "adDetails": {
+      "type": "IMAGE",
+      "adText": "*CYPHER GRAPHIX - 3D SMARTPHONE TRAINING*\n___\n\nDo you want to learn how to design :\n🔘 3D logo,\n🔘 Flyers\n🔘 Edit pics \n\nAnd a lot more on your own ? \nLook nor further, this is the opportunity you've been waiting for. \nLearn how to do more with your smartphone 📱 in a 5-day intensive training on *3D SMARTPHONE TRAINING*\n\n*Get Started With The Traning*\nTraining cost only Gh¢15.\n\n_Start Learning today. Click on the link below ⬇ to register_\n📝 https://chat.whatsapp.com/L4DW8kCVVms7lpX5wnGHYb",
+      "adImagePath": "./images/cypher-graphics.jpeg",
+      "adImageName": "cypher-graphics"
+    },
+    "isActive": false
+  },
+  {
+    "customer": {
+      "name": "Yaa Baby",
+      "phone": "233556970267"
+    },
+    "adDetails": {
+      "type": "TEXT",
+      "adText": "*Yaa Baby Enterprise*\nDealers in Quality, Genuine And Affordable home appliances\n\n🔘 Neon ceiling fan        @ Gh¢ 130 \n🔘 Ceiling fan                  @ Gh¢ 120\n🔘 Nonstick Cookware   @ Gh¢ 450\n🔘 Dish rag                      @ Gh¢ 40\n🔘 Shoe rag                     @ Gh¢ 40\n🔘 Hook Trainer              @ Gh¢ 60\n🔘 Foldable Kettle          @ Gh¢ 75\n🔘 Portable Blender        @ Gh¢ 75\n🔘 3L Rice Cooker           @ Gh¢ 100\n🔘 Single Wardrobe        @ Gh¢ 80\n🔘 Table Top Fridge        @ Gh¢ 750\n🔘 Gas cylinder               @ Gh¢ 135\n🔘 Dry Line                      @ Gh¢ 140\n🔘 6L Fufu Blender         @ Gh¢ 280\n🔘 Deep Fryer                  @ Gh¢ 230\n🔘 Automatic Burner      @ Gh¢ 120\n\n*Special Promo*\n〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️\n▪️Rice cooker \n▪️Pressing Iron\n▪️Blender\n▪️Kettle\n▪️Gas Cylinder\n_Get all 5 appliances above at only Gh¢ 519_\n\n*Note:* All products are available for delivery or pickup\n*Location:* Kumasi - Adum and Tan\n*Contact:* 233556970267\n*Reach Us:* https://wa.me/c/233556970267\n\nView more products in our catalog 👇👇",
+      "adImagePath": null,
+      "adImageName": null
+    },
+    "isActive": false
+  },
+  {
+    "customer": {
+      "name": "Janice",
+      "phone": "233502380422"
+    },
+    "adDetails": {
+      "type": "IMAGE",
+      "adText": "*JLANZ EVENTS*\nWe've got you covered for all small and big events such as birthday photoshoot, surprise birthday party, marriage proposals,bridal shower,engagement, weddings and many others.\n\nWe're just a call or a dm away. \n\n_Contact us on:-_\n*Phone Us*: 0502380422\n*Whatsapp*: https://wa.me/233502380422\n*Email Us*:  jlanzevents@gmail.com",
+      "adImagePath": "./images/jlans-events.jpeg",
+      "adImageName": "jlanz-events"
+    },
+    "isActive": true
+  },
+  {
+    "customer": {
+      "name": "Evans",
+      "phone": "233240269597"
+    },
+    "adDetails": {
+      "type": "TEXT",
+      "adText": "https://chat.whatsapp.com/HaLiapV2S8nDBdEiNLg86P\n\n\nThis platform is solely for updates on new designs and their prices for *quality but cheap ladies bags, heels, nurse's down shoes, slippers, unisex lacostes* , etc. You can tag a product and private chat any of the admins or any sort of discussion to prevent disturbance. We do both retail and wholesale and free coaching to interested starters as well. This group is purely devoid of any disturbance of any sort. We do delivery nationwide...Feel free and enjoy your stay... 🥰🥰",
+      "adImagePath": null,
+      "adImageName": null
+    },
+    "isActive": true
+  },
+  {
+    "customer": {
+      "name": "Caros_Business_Hub",
+      "phone": "233262922608"
+    },
+    "adDetails": {
+      "type": "IMAGE",
+      "adText": "*Caro's Business Hub*\n-------------------------------------------------------------\nContact us for all your affordable fashion needs\nWe are dealers in *Foot wears*, *Bags* and *Second hand clothes*\nWholesale prices for everyone even if you are buying one\n\n*_Check us out on INSTRAGRAM_*\n1. Bags page \nhttps://instagram.com/caros_wholesale?r=nametag\n\n2. Footwear page \nhttps://instagram.com/caros_business_hub?r=nametag\n\n3. Second hand clothes page \nhttps://instagram.com/fosse_balegh?r=nametag\n\n4. Personal page \nhttps://instagram.com/caroline_boahen?r=nametag\n\n_Reach Us Via_\n*Phone:* 0262922608\n*WhatsApp:* https://chat.whatsapp.com/L0bbBS6FtUJE0mPGmu5iXi\n*Telegram:* https://t.me/PYF_gh",
+      "adImagePath": "./images/Caros_Business_Hub.jpeg",
+      "adImageName": "Caros_Business_Hub"
+    },
+    "isActive": true
+  },
+  {
+    "customer": {
+      "name": "Stephen",
+      "phone": "233544490828"
+    },
+    "adDetails": {
+      "type": "IMAGE",
+      "adText": "I published my new episode OFF THE NORM PODCAST with *Wy-coff SO*, please check it out.\nhttps://www.podbean.com/pi/pbblog-i5msa-aee095\n\nPodcast Flyer\n\nJoin Off the Norm podcast\n\nDownload Podbean from Playstore or AppStore \n\nSearch for Off the Norm Podcast \n\nClick on the Follow button\nTo receive notifications when we are live\n\nYou can also listen to previous messages as well.",
+      "adImagePath": "./images/wy-coff-so.jpeg",
+      "adImageName": "wy-coff so"
+    },
+    "isActive": true
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "venom-bot": "^3.0.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onihani/WhatsappBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Onihani/WhatsappBot/issues"
+  },
+  "homepage": "https://github.com/Onihani/WhatsappBot#readme",
+  "description": ""
+}
